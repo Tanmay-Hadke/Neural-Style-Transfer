@@ -54,8 +54,8 @@ It combines the **content** of one image with the **style** of another using a p
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/neural-style-transfer.git
-cd neural-style-transfer
+git clone https://github.com/Tanmay-Hadke/Neural-Style-Transfer.git
+cd Neural-Style-Transfer
 ```
 
 ### 2. Create Environment (Optional but Recommended)
@@ -154,4 +154,4 @@ Built for educational and creative purposes 🎨🖼️
 ## 👨‍💻 Author
 
 **Your Name**  
-[GitHub](https://github.com/yourusername) | [LinkedIn](https://linkedin.com/in/yourname)
+[GitHub](https://github.com/Tanmay-Hadke) | [LinkedIn](https://linkedin.com/in/tanmay-hadke)
