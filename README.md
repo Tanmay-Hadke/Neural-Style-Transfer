@@ -154,4 +154,4 @@ Built for educational and creative purposes 🎨🖼️
 ## 👨‍💻 Author
 
 **Your Name**  
-[GitHub](https://github.com/Tanmay-Hadke) | [LinkedIn](https://linkedin.com/in/tanmay-hadke)
+[GitHub](https://github.com/Tanmay-Hadke) | [LinkedIn](https://www.linkedin.com/in/tanmay-hadke)
