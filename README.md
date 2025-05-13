@@ -32,7 +32,7 @@ It combines the **content** of one image with the **style** of another using a p
 
 | Content Image            | Style Image              | Output Image             |
 |--------------------------|--------------------------|--------------------------|
-| ![]([samples/content.jpg](https://github.com/Tanmay-Hadke/Neural-Style-Transfer/blob/main/input-images/sunflowers-8175248_1280.jpg)) | ![](samples/style.jpg)   | ![](samples/output.jpg)  |
+| ![](input-images/sunflowers-8175248_1280.jpg) | ![](styles/obey.png)   | ![](output-images/output.jpg)  |
 
 ---
 
