@@ -133,7 +133,7 @@ Total Loss = Content Loss + Style Loss + TV Loss
 ## 📷 Credits
 
 - Based on ideas from the paper [Gatys et al. (2015)](https://arxiv.org/abs/1508.06576)
-- Style images: [WikiArt](https://www.wikiart.org/)
+- Style images: [Neural Style Transfer Gallery]([https://www.wikiart.org/](https://dpamar.github.io/neural_style_transfer_gallery/))
 - Pretrained models: [TorchVision](https://pytorch.org/vision/stable/models.html)
 
 ---
